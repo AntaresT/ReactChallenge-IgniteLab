@@ -11,3 +11,5 @@ Initates the application.
 - [React](https://github.com/facebook/create-react-app)
 - [Tailwind](https://github.com/tailwindlabs/tailwindcss)
 - [GraphQL](https://github.com/graphql)
+- [Date-fns](https://github.com/date-fns/date-fns)
+- [Phosphor Icons](https://github.com/phosphor-icons/phosphor-home)
