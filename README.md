@@ -16,3 +16,4 @@ Initates the application.
 - [Date-fns](https://github.com/date-fns/date-fns)
 - [Phosphor Icons](https://github.com/phosphor-icons/phosphor-home)
 - [VimeJS](https://github.com/vime-js/vime)
+- [GraphQL-CodeGen](https://github.com/dotansimha/graphql-code-generator)
